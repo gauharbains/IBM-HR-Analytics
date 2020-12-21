@@ -1,5 +1,7 @@
 # IBM-HR-Analytics
- This repository explores the factors that affect employee performance and attrition. Description of the dataset can be found at this link: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset. 
+ This repository explores the factors that affect employee performance and attrition.  Different classifiers were tested to predict both employee attrition and performance. 
+   
+ Description of the dataset can be found at this link: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset. 
  
  ## Requirements
  
